@@ -1,0 +1,21 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "faiss-cpu>=1.11.0",
+    "fpdf>=1.7.2",
+    "gdown>=5.2.0",
+    "googlemaps>=4.10.0",
+    "markdown>=3.8",
+    "numpy>=2.2.5",
+    "openai>=1.77.0",
+    "pandas>=2.2.3",
+    "pickle-mixin>=1.0.2",
+    "psycopg2-binary>=2.9.10",
+    "python-dotenv>=1.1.0",
+    "requests>=2.32.3",
+    "sqlalchemy>=2.0.40",
+    "streamlit>=1.45.0",
+]
